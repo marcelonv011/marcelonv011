@@ -3,8 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computadora">
 
 <p align="left"> 
-  Mi nombre es Marcelo Nicolas Villalba <strong>Actualmente estudiante de Ingeniería de Software - Universidad Uniamerica - Foz Do Iguacu, Brasil.
-</strong><br>
+  Mi nombre es Marcelo Nicolas Villalba.
+<br>
+  Actualmente estudiante de <strong>Ingeniería de Software </strong>  en la Universidad Uniamerica de Foz Do Iguacu, Brasil.
+<br>
 Siempre con ganas de seguir aprendiendo sobre las diferentes tecnologías.
 </p>
 
