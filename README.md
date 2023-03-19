@@ -20,11 +20,19 @@ Siempre con ganas de seguir aprendiendo sobre las diferentes tecnologías.
 <code><img height="32" src="https://storage.googleapis.com/moravio-web/media/react_native_e0c7e12161/react_native_e0c7e12161.png" alt="React Native"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="35" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java"/></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzHsl-42g5Y-Fg6tFfeBr3oDv6ca5_cEQX7FPCO_LE01vXf8NBijvIkjHNWG_oxmgX9I&usqp=CAU" alt="Spring boot"/></code>
-<code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/></code>
 
 
 ---
+
+<p align="left">
+  💼 Utilidades: <strong> Postman, SPRING BOOT(Lombok, Spring web, Spring Data JPA, Validation, PostgreSQL DRIVER, Flyway Migration).</strong>
+</p>
+<p align="left">
+  🦄 DevOps: <strong> Git, GitHub</strong>
+</p>
+<p align="left">
+  💼 Herramientas de desenvolvimiento: <strong>IntelliJ IDEA, Visual Studio Code, Expo(App), PgAdmin4 </strong>
+</p>
 
 <p align="left">
   💌 Donde encontrarme:
