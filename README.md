@@ -25,9 +25,6 @@ Siempre con ganas de seguir aprendiendo sobre las diferentes tecnologías.
 ---
 
 <p align="left">
-  💼 Utilidades: <strong> Postman, SPRING BOOT(Lombok, Spring web, Spring Data JPA, Validation, PostgreSQL, Flyway Migration).</strong>
-</p>
-<p align="left">
   🦄 DevOps: <strong> Git, GitHub</strong>
 </p>
 <p align="left">
